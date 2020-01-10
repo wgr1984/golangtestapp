@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
-	"sub"
+	"github.com/wgr1984/golangtestapp/sub"
 )
 
 func main() {
 	fmt.Println("Hello World!")
-	sub.Hello("Test")
+	sub.Hallo("Test")
 }
